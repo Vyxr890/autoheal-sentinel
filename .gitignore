@@ -1,0 +1,7 @@
+# Runtime artifacts
+logs/*.log
+reports/*.md
+
+# OS files
+.DS_Store
+Thumbs.db
